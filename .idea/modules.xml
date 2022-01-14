@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_SRP_DEMO/1_SRP_DEMO.iml" filepath="$PROJECT_DIR$/1_SRP_DEMO/1_SRP_DEMO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_OCP_DEMO/2_OCP_DEMO.iml" filepath="$PROJECT_DIR$/2_OCP_DEMO/2_OCP_DEMO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_LSP_DEMO/3_LSP_DEMO.iml" filepath="$PROJECT_DIR$/3_LSP_DEMO/3_LSP_DEMO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_ISP_DEMO/4_ISP_DEMO.iml" filepath="$PROJECT_DIR$/4_ISP_DEMO/4_ISP_DEMO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_DIP_DEMO/5_DIP_DEMO.iml" filepath="$PROJECT_DIR$/5_DIP_DEMO/5_DIP_DEMO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID_Demos.iml" filepath="$PROJECT_DIR$/SOLID_Demos.iml" />
+    </modules>
+  </component>
+</project>
